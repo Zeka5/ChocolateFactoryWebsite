@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Kurtos kolac",
+        "workingHours": "08:00 - 18:00",
+        "status": "Closed",
+        "location": {
+            "longitude": 19.83694,
+            "latitude": 45.25167,
+            "street": "Chocolate Avenue",
+            "number": "12A",
+            "city": "Sweet City",
+            "postalCode": "21000"
+        },
+        "logo": "https://www.groupcaliber.com/wp-content/uploads/2022/08/nestle_case_study_logo_feaure_image.png",
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "name": "Pionir",
+        "workingHours": "08:00 - 18:00",
+        "status": "Open",
+        "location": {
+            "longitude": 19.83694,
+            "latitude": 45.25167,
+            "street": "Chocolate Avenue",
+            "number": "12A",
+            "city": "Sweet City",
+            "postalCode": "21000"
+        },
+        "logo": "https://upload.wikimedia.org/wikipedia/sr/1/15/Pionir_logo.png",
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "name": "Fabrikae",
+        "workingHours": "00 - 24",
+        "status": "Open",
+        "location": {
+            "longitude": 19.83694,
+            "latitude": 45.25167,
+            "street": "Chocolate Avenue",
+            "number": "12A",
+            "city": "Sweet City",
+            "postalCode": "21000"
+        },
+        "logo": "https://images-platform.99static.com//IracLAVO7oVEEqUe_m_mcW-pyTM=/543x247:1424x1128/fit-in/500x500/99designs-contests-attachments/48/48492/attachment_48492335",
+        "rating": 0
+    },
+    {
+        "id": 4,
+        "name": "Cokolat",
+        "workingHours": "00 - 24",
+        "status": "Open",
+        "location": {
+            "longitude": 19.83410304298157,
+            "latitude": 45.252537472872945,
+            "street": "Cirpanova",
+            "number": "17",
+            "city": "Novi Sad",
+            "postalCode": "21101"
+        },
+        "logo": "https://t3.ftcdn.net/jpg/02/05/46/30/360_F_205463037_cXsFsDC65v6ZlZlqoDYabosy0sZnwReO.jpg",
+        "rating": 0
+    },
+    {
+        "id": 5,
+        "name": "fabrika",
+        "workingHours": "00 - 24",
+        "status": "Open",
+        "location": {
+            "longitude": 19.844582668623392,
+            "latitude": 45.25197094903092,
+            "street": "Vase Stajica",
+            "number": "4",
+            "city": "Novi Sad",
+            "postalCode": "21101"
+        },
+        "logo": "https://www.pionir.rs/pub/catalog/proizvodi_polozeno-437x310-pionir-kuvanje-200g.jpg",
+        "rating": 0
+    }
+]

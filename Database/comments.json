@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "username": "jole",
+        "factoryId": "2",
+        "text": "topina",
+        "rating": "4",
+        "status": "Accepted"
+    },
+    {
+        "id": 2,
+        "username": "jole",
+        "factoryId": "2",
+        "text": "SUPERISKA",
+        "rating": "4",
+        "status": "Rejected"
+    },
+    {
+        "id": 3,
+        "username": "jole",
+        "factoryId": "2",
+        "text": "predobro",
+        "rating": "2",
+        "status": "Accepted"
+    },
+    {
+        "id": 4,
+        "username": "mile",
+        "factoryId": "1",
+        "text": "kjfrsgsar",
+        "rating": "5",
+        "status": "Accepted"
+    }
+]
